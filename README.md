@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Kapilesh0904/Kapilesh0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul>
+<li>👋 Hi, I'm Kapilesh.</li>
+<li>🌱 I’m currently pursuing my <b>B.E</b> in <b>Artificial Intelligence and Machine Learning</b> in <b>BMSCE</b>.</li>
+<li>📫 How to reach me: kapilesh2003@gmail.com</li>
+</ul>
